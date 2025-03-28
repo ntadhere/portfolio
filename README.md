@@ -36,6 +36,7 @@ Junior college student with a solid foundation in full-stack development and han
 ---
 
 ## 🚀 PROJECTS
+###  Some project is in private. Please contact for access
 
 - **CaseHong Ecommerce Website**  
     - Using Odoo
@@ -45,6 +46,10 @@ Junior college student with a solid foundation in full-stack development and han
     - Using Divi, Wordpress
     - [Visit Website](https://e1cardio.com/trang-chu/)
 
+- **Hommies Showcase Website**  
+    - Using React, Express:  [GitLab Repository](https://gitlab.com/dorothy.nguyen/95hommies)
+    - Using Wix: [Visit website](https://daoonline11.wixstudio.com/hommies)
+    
 - **Minesweeper Website Application**  
     - Using C#, .NET Framework, MSSQL: [GitHub Repository](https://github.com/ntadhere/CST350_Milestone)
     
