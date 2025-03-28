@@ -36,7 +36,7 @@ Junior college student with a solid foundation in full-stack development and han
 ---
 
 ## 🚀 PROJECTS
-###  Some project is in private. Please contact for access
+###  Some projects are private. Please contact me for access.
 
 - **CaseHong Ecommerce Website**  
     - Using Odoo
