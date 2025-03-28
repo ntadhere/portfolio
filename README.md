@@ -35,7 +35,7 @@ Junior college student with a solid foundation in full-stack development and han
 
 ---
 
-## 🚀 PROJECTS
+## 🌐 PROJECTS
 ###  Some projects are private. Please contact me for access.
 
 - **CaseHong Ecommerce Website**  
